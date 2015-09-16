@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:19.523008
+#+DATE: 2015-08-30 19:35:23.016617
 #+TITLE: 佛本行經
 #+PROPERTY: CBETA_ID T04n0193
 #+PROPERTY: ID KR6b0050
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 193
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6b0050_T_000-0054c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0050_T_003-0072b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《佛本行經》卷第三(一名佛本行讚傳)¶
+《佛本行經》卷第三(一名佛本行讚傳)¶
 ¶
 宋涼州沙門釋寶雲譯¶
 
-14為瓶沙王說法品
-:PROPERTIES:
-:head: 為瓶沙王說法品第十四
-:END:
-¶
+為瓶沙王說法品第十四¶
 
 #+BEGIN_VERSE
 「　意如重慶雲，
@@ -505,11 +500,7 @@
 #+END_VERSE
 」¶
 
-15不然阿蘭品
-:PROPERTIES:
-:head: 《佛本行經》不然阿蘭品第十五
-:END:
-¶
+《佛本行經》不然阿蘭品第十五¶
 
 #+BEGIN_VERSE
 「　如是菩薩，
@@ -772,7 +763,7 @@
 　其足觸地，¶
 　震動如是。
 　地神歡喜，
-　跛𨁟如舞；¶
+　跛𨁟[跳-兆+我]如舞；¶
 　震聲隱隱，
 　如有所捨。
 　以世導師，¶
@@ -944,11 +935,7 @@
 #+END_VERSE
 」¶
 
-16降魔品
-:PROPERTIES:
-:head: 《佛本行經》降魔品第十六
-:END:
-¶
+《佛本行經》降魔品第十六¶
 
 #+BEGIN_VERSE
 「　時菩薩始坐，
@@ -1352,7 +1339,7 @@
 　如出赤雲照然明；
 <pb:KR6b0050_T_003-0078b>¶
 　從袈裟中出其臂，
-　即展𦟛平微妙臂。¶
+　即展[月*庸]平微妙臂。¶
 　先世善行之積聚，
 　千福輪掌妙相具；¶
 　告魔王已手觸地，
@@ -1456,7 +1443,7 @@
 　天意作花悉周布。¶
 　地普充盈塞空中，
 　從無結愛雨天花；¶
-　𠆸樂不鼓自然鳴，
+　[仁-二+(敲-高)]樂不鼓自然鳴，
 　諸天鼓樂空中作。¶
 　天應慶喜世得持，
 　地虛空神普踊躍；¶
