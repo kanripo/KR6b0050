@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:19.569452
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:59
 #+TITLE: 佛本行經
 #+PROPERTY: CBETA_ID T04n0193
 #+PROPERTY: ID KR6b0050
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 193
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0050_T_000-0054c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0050_T_004-0079a> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《佛本行經》卷第四(一名佛本行讚傳)¶
+《佛本行經》卷第四(一名佛本行讚傳)¶
 ¶
 宋涼洲沙門釋寶雲譯¶
 
-17度五比丘品
-:PROPERTIES:
-:head: 度五比丘品第十七
-:END:
-¶
+* 度五比丘品第十七¶
 
 #+BEGIN_VERSE
 「　「敬順於佛，
@@ -64,9 +59,9 @@
 　猶如盛火，
 　得風吹動；
 　燒然乾薪，¶
-　終不休滅。
+　終不休滅。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　「人縱情意，
@@ -169,15 +164,11 @@
 　願使眾生，
 　速轉法輪；
 　如佛世尊，¶
-　說法度人。
+　說法度人。」
 #+END_VERSE
-」¶
-
-18度寶稱品
-:PROPERTIES:
-:head: 《佛本行經》度寶稱品第十八
-:END:
 ¶
+
+* 《佛本行經》度寶稱品第十八¶
 
 #+BEGIN_VERSE
 「　久無央數劫，
@@ -586,15 +577,11 @@
 　皆尋得安隱，
 　不危墜之處；¶
 　聞已樂學者，
-　當入泥洹城。
+　當入泥洹城。」
 #+END_VERSE
-」¶
-
-19廣度品
-:PROPERTIES:
-:head: 《佛本行經》廣度品第十九
-:END:
 ¶
+
+* 《佛本行經》廣度品第十九¶
 
 #+BEGIN_VERSE
 「　獨為一切護，
@@ -929,15 +916,11 @@
 　見佛受化者，
 　世間今故有；¶
 　是等護國土，
-　災患永消亡。
+　災患永消亡。」
 #+END_VERSE
-」¶
-
-20現大神變品
-:PROPERTIES:
-:head: 《佛本行經》現大神變品第二十
-:END:
 ¶
+
+* 《佛本行經》現大神變品第二十¶
 
 #+BEGIN_VERSE
 「　諸天之帝，
@@ -1678,9 +1661,9 @@
 　世間無復，
 　愚癡之冥；
 　一切智明，¶
-　愚癡除無。
+　愚癡除無。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　紺色光明，
@@ -1747,15 +1730,12 @@
 　得度生死，
 　苦惱之對；
 　因入泥洹，¶
-　安樂之城。
+　安樂之城。」
 #+END_VERSE
-」¶
+¶
 《佛本行經》卷第四¶
 
-:PROPERTIES:
-:head: 轉法輪品第十七
-:END:
-¶
+* 轉法輪品第十七¶
 
 #+BEGIN_VERSE
 「　願成懷歡喜，
@@ -1789,9 +1769,9 @@
 　慈目視無厭，
 　盡敬白佛言：¶
 　「願憶果敢誓，
-　施甘露於世。
+　施甘露於世。」
 #+END_VERSE
-」¶
+¶
 
 #+BEGIN_VERSE
 「　「世人如藕，
@@ -2089,7 +2069,7 @@
 　佛因告曰：
 　「非道士宜，
 　佛前不宜，¶
-　慢無恭肅。」
+　慢無恭肅。」」
 #+END_VERSE
-」¶
+¶
 

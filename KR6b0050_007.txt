@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:19.719000
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:59
 #+TITLE: 佛本行經
 #+PROPERTY: CBETA_ID T04n0193
 #+PROPERTY: ID KR6b0050
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 193
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6b0050_T_000-0054c>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0050_T_007-0106b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
 ¶
-
- 《佛本行經》卷第七(一名佛本行讚傳)¶
+《佛本行經》卷第七(一名佛本行讚傳)¶
 ¶
 宋涼州沙門釋寶雲譯¶
 
-29大滅品
-:PROPERTIES:
-:head: 大滅品第二十九
-:END:
-¶
+* 大滅品第二十九¶
 
 #+BEGIN_VERSE
 「　時佛與大眾，
@@ -537,15 +532,11 @@
 　世尊捨軀命，
 　寂潛於泥洹；¶
 　一切有形類，
-　莫不失精榮。
+　莫不失精榮。」
 #+END_VERSE
-」¶
-
-30嘆無為品
-:PROPERTIES:
-:head: 《佛本行經》嘆無為品第三十
-:END:
 ¶
+
+* 《佛本行經》嘆無為品第三十¶
 
 #+BEGIN_VERSE
 「　於時從空中，
@@ -1035,15 +1026,11 @@
 　幡蓋授大殿，
 　施七寶高座；¶
 　舍利置其上，
-　一切禮供養。
+　一切禮供養。」
 #+END_VERSE
-」¶
-
-31舍利品
-:PROPERTIES:
-:head: 《佛本行經》八王分舍利品第三十一
-:END:
 ¶
+
+* 《佛本行經》八王分舍利品第三十一¶
 
 #+BEGIN_VERSE
 「　諸力士悲感，
@@ -1613,7 +1600,7 @@
 　願志大乘意，
 　寫情心專固。¶
 　稽首歸命佛，
-　忽然各飛去。
+　忽然各飛去。」
 #+END_VERSE
-」¶
+¶
 佛本行經卷第七
